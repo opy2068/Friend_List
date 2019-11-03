@@ -1,0 +1,5 @@
+I have many friend.At first, I have to create a List of my friend.
+
+I put many information in everyone's profile.If i want to see the information
+
+of any friend,I can search his/her name and i can block/remove anyone on my friend List. 
