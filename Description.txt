@@ -1,5 +1,1 @@
-I have many friend.At first, I have to create a List of my friend.
-
-I put many information in everyone's profile.If i want to see the information
-
-of any friend,I can search his/her name and i can block/remove anyone on my friend List. 
+Student list : In Daffodil University there are many student.I want to make a List of them. If any one admit here ,i want to add in my record.Who pass the exam in last semister,i want to remove them for my record List.
